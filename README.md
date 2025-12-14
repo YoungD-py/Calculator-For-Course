@@ -4,7 +4,7 @@
 Kalkulator Bunga Sederhana adalah aplikasi web sederhana yang dirancang untuk menghitung bunga sederhana berdasarkan pokok (principal), suku bunga tahunan, dan waktu. Aplikasi ini membantu pengguna memahami dan menghitung bunga yang dihasilkan dari investasi atau pinjaman.
 
 ## Rumus Bunga Sederhana
-Rumus yang digunakan adalah:
+Rumus gaming yang digunakan adalah:
 ```
 I = P * r * t
 ```
